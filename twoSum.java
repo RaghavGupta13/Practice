@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class twoSum {
 
-    private static int[] arr = new int[] {8, 4, 7, 2, 9, 1};
+    private static int[] arr = new int[] {5, 4, 7, 8, 9, 1};
 
     private static void quickSort(int[] arr, int l, int h){
         if(l<h){
